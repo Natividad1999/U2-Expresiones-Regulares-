@@ -1,0 +1,113 @@
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer euismod vulputate efficitur. Cras molestie metus quam, sit amet tempus eros feugiat vel. Aenean condimentum sagittis lectus, in dictum tellus porttitor a. Cras a gravida arcu. Aliquam pellentesque at mauris vitae malesuada. Cras facilisis nec elit et auctor. Maecenas varius pulvinar porta.
+
+Proin velit mauris, facilisis ultricies mauris quis, imperdiet condimentum tellus. Aliquam vitae mattis tellus. Aenean iaculis a risus et faucibus. Morbi eget nunc enim. Curabitur tristique tortor sed mi elementum sagittis. Nullam tincidunt, quam in tincidunt lacinia, mauris lacus tristique dolor, non eleifend risus dolor vitae lacus. Cras ultricies eu nibh viverra vulputate. Suspendisse vitae orci ex. Aliquam imperdiet congue erat eget tempor. Suspendisse a urna velit. Aliquam finibus, nunc non auctor dapibus, purus libero posuere mauris, et dictum ligula enim convallis diam. In sit amet lorem quam. Integer quis ante quis libero ullamcorper finibus.
+
+Proin ut nisi tortor. Proin dolor nulla, ullamcorper lacinia feugiat vulputate, aliquet id nunc. Nunc erat enim, rhoncus nec ultrices vel, volutpat nec urna. Aliquam molestie erat eu eros malesuada, in porttitor risus tincidunt. Cras faucibus purus ac est vehicula, eu bibendum dolor tempor. Praesent tristique sed ligula quis imperdiet. In dolor nisi, scelerisque sit amet lacinia ut, laoreet nec magna. Phasellus at leo eu turpis consequat eleifend a sit amet justo. Ut vel congue sem, sit amet pretium ligula.
+
+Nulla volutpat, est eget dictum blandit, est odio ultrices nunc, nec fringilla nulla arcu eget leo. Cras et tortor ac odio tincidunt auctor non vehicula velit. Cras sit amet urna non mauris tempus suscipit. Praesent a dui vel ex finibus finibus eget eu mi. Duis tempus, risus eget rhoncus consectetur, ex eros tempor ante, vel porta magna mauris eget augue. Proin tristique nec neque suscipit finibus. Sed dui odio, dictum ut nulla nec, tincidunt lobortis dolor.
+
+Curabitur malesuada nisl magna, vitae sodales mauris cursus accumsan. Etiam sit amet convallis lacus. Morbi eget sodales ligula. Proin eu porttitor nunc, non lacinia diam. Aenean ut nisl arcu. Donec cursus velit in sollicitudin congue. Suspendisse vel turpis rutrum, fringilla augue ac, tincidunt risus. Vestibulum at ex urna. Integer at lacinia dui, ac facilisis ipsum. Vestibulum pellentesque mauris at erat hendrerit facilisis. Aenean sit amet enim at tortor consectetur molestie in bibendum augue. Nullam placerat placerat dui, eu sollicitudin mauris posuere sed. Nam ac scelerisque ante, in scelerisque diam. Vivamus tincidunt interdum pharetra. Sed eget leo sed tortor consectetur finibus.
+
+Generated 5 paragraphs, 402 words, 2682 bytes of Lorem Ipsum
+
+
+Las direcciones IP están formadas por cuatro números de hasta tres cifras separados por tres puntos. Los valores de cada número pueden variar entre 0 y 255, por lo que una dirección IP podría ser 192.168.1.1. Dentro de los miles de combinaciones que se pueden generar con esta numeración hay tres rangos que se reservan exclusivamente para las IPs privadas, y que son los siguientes:
+Clase A: 10.0.0.0 a 10.255.255.255.
+Clase B: 172.16.0.0 a 172.31.255.255.
+Clase C: 192.168.0.0 a 192.168.255.255.
+La Clase A es para las redes más grandes, como las de las compañías internacionales. Las IP privadas de Clase B son para redes de tamaño mediano, como las redes de una universidad, y las direcciones de la clase C se usan normalmente para las redes más pequeñas y domésticas. Por ejemplo, la IP 192.168.1.1 forma parte de la clase C, y por eso se reserva para entrar al router de tu casa.
+Es muy importante que no confundas a la dirección IP con la dirección MAC. La MAC es un identificador único para las tarjetas de red de los dispositivos, y por lo general es fijo para cada dispositivo (aunque puedes cambiarla). Mientras, la IP de tu ordenador no tiene por qué ser siempre la misma, y más que para identificar dispositivos sirve para identificarte a ti como usuario dentro de Internet.
+Hay que dejar claro que las IPs privadas no se repiten dentro de una misma red. Esto quiere decir que en tu casa cada aparato conectado tendrá una IP diferente sin que se repita ninguna, pero que en mi casa uno de mis aparatos puede tener la misma IP que uno de los tuyos, porque son redes diferentes.
+
+Ejemplo de como no debe ser un mensaje:
+Date: Wed. 5 May 1993 10:45
+From: tamarira@vm.ci.uv.es
+To:
+Me alegro mucho de saber que vas a visitar VAlencia estas fallaas que te
+parece si quedamos un rato cuando te venga bien. De hechjo he
+planeado un par de cosillas /---- que te gustaran mucho. Ponte en
+contacto | conmigo / antes del domingo y ya veremos cómo
+lo /\ | hacesmos. / @@@@@@@@@@@-------
+/ \ _____| o _/ ---\_ /___________________@@@ |
+/--- \ \ | /| |. . | /@@@ | _
+/ \ \ | | | _ | /@@@ || | |-||\ |
+/ \ \ -| \__ \__/ __________________/@@@ \_ / \_/ | || \|
+tel: trabajo (96) 268 11 12 (casa) 267 13 13 (fax) 268 11 10
+user-ids: rtc@graf.ci.uv.es, tamarira2vm.ci.uv.es
+Ejemplo de como debe ser un mensaje:
+Date: Wed. 5 May 1993 10:45
+From: Raul <tamarira@vm.ci.uv.es>
+To: Juan <juan@graf.ci.uv.es>
+Hola Juan:
+Me alegro mucho de saber que vas a visitar Valencia estas fallas.
+Recuerdo que dijiste:
+> Posiblemente solo pueda estar el fin de semana por motivos de
+> trabajo.
+Que te parece si quedamos un rato cuando te venga bien? De hecho,
+he planeado un par de cosillas que te gustaran mucho.
+Ponte en contacto conmigo antes del domingo y ya veremos cómo
+lo hacemos.
+Un abrazo,
+Raul
+---
+Raul Tamarit User-id: tamarira@vm.ci.uv.es
+Servicio de Informatica, Universidad de Valencia
+Doctor Moliner, s/n Burjasot (Valencia)
+Telf: 963864310
+
+La primera actuación de la que se tiene constancia del uso de phonewords en España data de 1997-98 cuando Gabriel Medina Vílchez adquirió un número teléfono móvil de la única empresa que permitía elegirlos, Airtel, por aquel entonces con prefijo que comenzaba con 9, para ofertarlo al sector de las pizzas a domicilio. El número elegido fue el 910749927, o transformado a phoneword 910 PIZZAS. Además para hacer aún más reconocible e identificable el número lo promocionó como "9-10 PIZZAS. PIZZAS SOBRESALIENTES", aunque esta actuación no tuvo éxito entre el sector seleccionado, posiblemente por el desconocimiento del uso de este tipo de números.1
+
+El mercado de Phonewords en España no ha entrado aún muy fuerte, aunque si hay muchas empresas que disponen de sus números telefónicos adaptables a este formato pero que por la poca difusión del mismo prefieren no publicitar.
+
+No sólo son números con prefijos 902, ya en previsión de cambio por otros adaptados a la numeración conjunta Europea, sino que cualquier teléfono es susceptible de convertirse en Phoneword.
+
+La principal ventaja es poder recordar el número, sin saberlo, con conocer la palabra se podría saber el número. La empresa JAMONIA utiliza el número 902 252 666, o si se prefiere 902 2-JAMON, por lo que recordando JAMON, y lógicamente el 902 2, se podría llamar a la misma.
+
+Quizás el ejemplo más claro de avance y potenciación de este servicio esté en el sector de los CAMPING de Motril en la provincia de Granada, que dos de ellos disponen de este tipo de Phonewords. Así se podría llamar al camping Don Cactus de Carchuna marcando el 90 CAMPING (902267464),2 o al Camping Playa de Poniente, llamando al móvil 62 CAMPING (622267464).
+
+El Canal de Isabel II utiliza para atender a sus clientes el código 9000CANAL, equivalente a 900022625.34
+
+El comparador precio.com usa el teléfono 900-PRECIO para atender a sus clientes.
+
+La palabra "España" se usa en un código del servicio "España Directo" de Movistar (Telefónica), concretamente en el de la compañía Verizon de Estados Unidos: 1 800 9 ESPAÑA, que equivale a 1 800 9 377262
+
+Cógigos Postales de Mérida 
+Código Postal	Asentamiento	                                 Municipio	Estado	   Tipo
+
+97229	        Fraccionamiento 15 de Mayo	                       Mérida 	Yucatán	  Urbano
+97280	        Colonia 5 Colonias	                               Mérida	Yucatán	  Urbano
+97208	        Fraccionamiento 60 Norte	                       Mérida	Yucatán	  Urbano
+97215           Fraccionamiento Águilas Chuburna	               Mérida	Yucatán	  Urbano
+97285	        Fraccionamiento Álamos del Sur	                   Mérida	Yucatán	  Urbano
+97050	        Colonia Alcalá Martín	                           Mérida	Yucatán	  Urbano
+97305	        Fraccionamiento Algarrobos Desarrollo Residencial  Mérida	Yucatán	 Semiurbano
+97203	        Colonia Almendros	                               Mérida	Yucatán	   Urbano
+
+Horarios de México 22 de octubre de 2020
+
+Horario de verano
+Tiempo del Noroeste
+
+17:39:09
+Jueves 22 de Octubre de 2020
+Horario de verano
+Tiempo del Pacífico
+
+18:39:09
+Jueves 22 de Octubre de 2020
+Horario de verano
+Tiempo del Centro
+
+19:39:09
+Jueves 22 de Octubre de 2020
+Horario de invierno
+Tiempo del Sureste
+
+Páginas visitas para recabar la infomación 
+
+https://www.uv.es/uvweb/servicio-informatica/es/servicios/generales/correo- electronico/documentos/basicos/introduccion-al-correo-electronico-1285906565487.html 
+https://www.xataka.com/basics/que-es-una-direccion-ip-y-como-puedes-saber-la-tuya 
+https://es.wikipedia.org/wiki/Phonewords 
+https://www.cenam.mx/hora_oficial/ 
+https://codigo-postal.co/mexico/yucatan/merida/ 
